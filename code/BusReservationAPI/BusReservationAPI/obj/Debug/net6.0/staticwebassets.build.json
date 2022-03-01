@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JQqO3w2Brw/bV3q7+DKAyAdON3Ys/ukv8pylYBiefz0=",
+  "Source": "BusReservationAPI",
+  "BasePath": "_content/BusReservationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
